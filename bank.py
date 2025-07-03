@@ -82,7 +82,7 @@ while True:
                 break
 
         else:
-            print("You can choose only from 1/2/3/4")
+            print("You can choose only from 1/2/3/4/5")
             continue
     except ValueError:
         print("enter a valid value")
